@@ -1,0 +1,146 @@
+body{
+    background:linear-gradient(to right,#c2c5aa,#a4ac86);
+    
+ }
+ .head{
+     padding-left: 45%;
+     font-weight: bold;
+     font-size:large;
+ }
+ .content{
+     display:flex;
+ }
+ #num{
+     padding-left: 8%;
+ }
+ #mail{
+     padding-left:22%;
+ }
+ #web{
+     padding-left: 20%;
+ }
+ .career{
+  text-indent: 50px;
+ }
+ a{
+     text-decoration:none;
+     color: black; 
+     font-weight: bold;
+ }
+ .cgpa{
+     float: right;
+     margin: 0%;
+     padding-right: 2%;
+     font-weight: bold;
+     font-style: italic;
+ }
+ .college{
+     margin-top: 0%;
+     text-indent: 50px;
+     font-style: italic;
+ }
+ li{
+     text-decoration: none;
+     font-weight: bold;
+     
+ }
+ .school{
+     margin-top: 0%;
+     text-indent: 50px;
+     font-style: italic;
+ }
+ .mark{
+     float: right;
+     margin: 0%;
+     padding-right: 2%;
+     font-weight: bold;
+     font-style: italic;
+ }
+ .school1{
+     margin-top: 0%;
+     text-indent: 50px;
+     font-style: italic;
+ }
+ .schcgpa{
+     float: right;
+     margin: 0%;
+     padding-right: 2%;
+     font-weight: bold;
+     font-style: italic;
+ }
+ 
+ #java{
+     font-style: italic;
+     padding-right: 4px;
+     float: right;
+     
+ }
+ span{
+     font-style: italic;
+     font-weight: normal;
+     padding-right: 4px;
+     float: right;
+ 
+ }
+ .intern{
+     margin-top: 0%;
+     text-indent: 50px;
+     font-style: italic;
+ }
+ .project{
+     margin-top: 0%;
+     text-indent: 50px;
+     font-style: italic;
+ }
+ .lang{
+     float: right;
+     padding-right: 10%;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     
+ }
+ .webtech{
+     float: right;
+     padding-right: 10%;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ 
+ .softskill{
+     float: right;
+     padding-right: 10%;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ .other1{
+     float: right;
+     padding-right: 10%;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ .other{
+     float: right;
+     padding-right: 10%;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ .btn{
+     float: right;
+    margin-right: 10px;
+    background-color: none;
+    color: black;
+    padding: 8px;
+    border-radius: 8px;
+    border: 0%;
+    cursor:pointer;
+ }
+ .homebtn{
+    background-color:none;
+    color: black;
+    padding: 8px;
+    border-radius: 8px;
+    border: 0%;
+    cursor:pointer;
+    padding-left: 10px;
+ }
+ .homebtn:hover{
+    background-color:rgb(241, 146, 105);
+ }
+ .btn:hover{
+    background-color:rgb(241, 146, 105) ;
+ }
